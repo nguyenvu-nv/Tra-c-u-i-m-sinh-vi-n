@@ -1,0 +1,10 @@
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\bin\Debug\Form Tra Cứu Điểm Sinh Viên.exe.config
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\bin\Debug\Form Tra Cứu Điểm Sinh Viên.exe
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\bin\Debug\Form Tra Cứu Điểm Sinh Viên.pdb
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\obj\Debug\Form Tra Cứu Điểm Sinh Viên.csproj.AssemblyReference.cache
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\obj\Debug\Form_Tra_Cứu_Điểm_Sinh_Viên.Form1.resources
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\obj\Debug\Form_Tra_Cứu_Điểm_Sinh_Viên.Properties.Resources.resources
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\obj\Debug\Form Tra Cứu Điểm Sinh Viên.csproj.GenerateResource.cache
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\obj\Debug\Form Tra Cứu Điểm Sinh Viên.csproj.CoreCompileInputs.cache
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\obj\Debug\Form Tra Cứu Điểm Sinh Viên.exe
+D:\visualcode_net\Form Tra Cứu Điểm Sinh Viên\Form Tra Cứu Điểm Sinh Viên\obj\Debug\Form Tra Cứu Điểm Sinh Viên.pdb
